@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: fantasy;
+    color: white;
+    background-color: rgb(19, 7, 129);
+}
+
+.center{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items:  center;
+    min-height: 100vh;
+}
