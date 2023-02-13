@@ -54,7 +54,9 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     MdbValidationModule,
     BrowserAnimationsModule
   ],
-  providers: [],
+  providers: [
+    
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
